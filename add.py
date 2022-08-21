@@ -1,4 +1,5 @@
-# coding: utf-8
+#1
+# # coding: utf-8
 from flask import Flask, render_template
 app = Flask("projeto")
 @app.route("/")
